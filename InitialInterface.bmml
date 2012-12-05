@@ -2,8 +2,8 @@
   <controls>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="231" y="98" w="294" h="444" measuredW="299" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C%2CAllowDenyPolicyEditor_DefinedCategory%26bm%3BAllowDenyPolicyEditor_DefinedCategory.bmml%26bm%3BAllowDenyPolicyEditor_DefinedCategory.bmml%26bm%3BAllowDenyPolicyEditor_DefinedCategory.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C0%2C221%2C25%22%20href%3D%22AllowDenyPolicyEditor_DefinedCategory.bmml%22%20alt%3D%22AllowDenyPolicyEditor_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
+        <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C0%2C221%2C25%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
         <text>Quick%2CApps%2CPeople%2CPlaces%2CStores</text>
       </controlProperties>

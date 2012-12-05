@@ -93,7 +93,6 @@
     <control controlID="32" controlTypeID="com.balsamiq.mockups::RoundButton" x="226" y="210" w="83" h="31" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22171%2C609%2C328%2C640%22%20href%3D%22CurrentDestinationAllow.bmml%22%20alt%3D%22CurrentDestinationAllow%22%20id%3D%2232%22/%3E</map>
         <shape>rectangle</shape>
         <text>Invite</text>
       </controlProperties>
