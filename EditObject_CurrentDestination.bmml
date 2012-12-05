@@ -32,7 +32,7 @@
         <text>Field</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::ComboBox" x="315" y="437" w="144" h="-1" measuredW="94" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::ComboBox" x="315" y="437" w="144" h="-1" measuredW="95" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Destination</text>
       </controlProperties>

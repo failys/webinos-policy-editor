@@ -13,8 +13,8 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="297" y="232" w="157" h="31" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
-        <href>CurrentDestinationAllow%26bm%3BCurrentDestinationAllow.bmml%26bm%3BCurrentDestinationAllow.bmml%26bm%3BCurrentDestinationAllow.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C66%2C172%2C97%22%20href%3D%22CurrentDestinationAllow.bmml%22%20alt%3D%22CurrentDestinationAllow%22%20id%3D%224%22/%3E</map>
+        <href>EditObject_CurrentDestination%26bm%3BEditObject_CurrentDestination.bmml%26bm%3BEditObject_CurrentDestination.bmml%26bm%3BEditObject_CurrentDestination.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C66%2C172%2C97%22%20href%3D%22EditObject_CurrentDestination.bmml%22%20alt%3D%22EditObject_CurrentDestination%22%20id%3D%224%22/%3E</map>
         <shape>rectangle</shape>
         <text>Current%20destination</text>
       </controlProperties>
@@ -22,8 +22,8 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="322" y="286" w="182" h="31" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
-        <href>GPSAllow%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C120%2C222%2C151%22%20href%3D%22GPSAllow.bmml%22%20alt%3D%22GPSAllow%22%20id%3D%226%22/%3E</map>
+        <href>EditDeviceService_GPS%26bm%3BEditDeviceService_GPS.bmml%26bm%3BEditDeviceService_GPS.bmml%26bm%3BEditDeviceService_GPS.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C120%2C222%2C151%22%20href%3D%22EditDeviceService_GPS.bmml%22%20alt%3D%22EditDeviceService_GPS%22%20id%3D%226%22/%3E</map>
         <shape>parallelogram</shape>
         <text>GPS</text>
       </controlProperties>
