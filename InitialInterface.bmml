@@ -1,9 +1,9 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="677" mockupW="309" mockupH="672">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="677" mockupW="530" mockupH="672">
   <controls>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="650" y="74" w="294" h="444" measuredW="299" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22169%2C69%2C223%2C94%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22390%2C69%2C444%2C94%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
         <text>Quick%2CApps%2CPeople%2CPlaces%2CStores</text>
       </controlProperties>
@@ -162,7 +162,7 @@
       <controlProperties>
         <href>TestPolicy%26bm%3BTestPolicy.bmml%26bm%3BTestPolicy.bmml%26bm%3BTestPolicy.bmml</href>
         <icon>CheckMarkIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C24%2C150%2C69%22%20href%3D%22TestPolicy.bmml%22%20alt%3D%22TestPolicy%22%20id%3D%2235%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22338%2C24%2C371%2C69%22%20href%3D%22TestPolicy.bmml%22%20alt%3D%22TestPolicy%22%20id%3D%2235%22/%3E</map>
         <text>Test</text>
       </controlProperties>
     </control>
@@ -170,6 +170,12 @@
       <controlProperties>
         <size>10</size>
         <text>The%20device%20status%20lights%20are%20read-only%2C%20and%20the%20coarse%20grained%20settings%20may%20be%20disabled%20based%20on%20device%20status.%20%20For%20example%2C%20%27Internet%27%20quick%20setting%20is%20both%20off%20and%20disabled%20because%20the%20Internet%20is%20unavailable%20to%20the%20device.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::StickyNote" x="427" y="94" w="137" h="80" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>%27Quick%27%20should%20be%20the%20default%20selected%20folder%20when%20starting%20the%20editor.</text>
       </controlProperties>
     </control>
   </controls>

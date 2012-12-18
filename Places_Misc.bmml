@@ -10,7 +10,7 @@
         <topheight>71</topheight>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <hrefs>%2C%2C%2CPlaces_Misc%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml</hrefs>
@@ -43,7 +43,7 @@
         <text>Test</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="204" w="247" h="381" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="204" w="247" h="381" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>9684093</color>
@@ -51,48 +51,42 @@
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="458" y="204" w="288" h="381" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="458" y="204" w="288" h="381" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>13369344</color>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="211" y="181" w="535" h="-1" measuredW="66" measuredH="23" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="211" y="181" w="535" h="-1" measuredW="66" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Peter</text>
       </controlProperties>
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::VRule" x="345" y="34" w="-1" h="71" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="219" y="109" w="-1" h="-1" measuredW="39" measuredH="45" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Csmall</icon>
-        <text>Zoom</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::VRule" x="272" y="99" w="-1" h="49" measuredW="10" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="596" y="204" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::VRule" x="272" y="99" w="-1" h="49" measuredW="10" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="596" y="204" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Deny</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="297" y="204" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="297" y="204" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Allow</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::IconLabel" x="124" y="111" w="-1" h="-1" measuredW="28" measuredH="45" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::IconLabel" x="124" y="111" w="-1" h="-1" measuredW="28" measuredH="45" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PlusBigIcon%7Csmall</icon>
         <text>Add</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::IconLabel" x="171" y="109" w="-1" h="-1" measuredW="44" measuredH="45" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::IconLabel" x="171" y="109" w="-1" h="-1" measuredW="44" measuredH="45" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>DashIcon%7Csmall</icon>
         <text>Delete</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="299" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="299" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C221%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2232_0%22/%3E%0A</map>
@@ -100,12 +94,18 @@
         <text>Quick%2CApps%2CPeople%2CPlaces%2CStores</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="111" y="148" w="629" h="-1" measuredW="100" measuredH="10" zOrder="17" locked="false" isInGroup="-1"/>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::RoundButton" x="282" y="326" w="83" h="31" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="111" y="148" w="629" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::RoundButton" x="282" y="326" w="83" h="31" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <shape>rectangle</shape>
         <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::StickyNote" x="246" y="364" w="179" h="136" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Everytime%20a%20user%20selects%20%27always%20allow%27%20or%20%27allows%20deny%27%20for%20a%20data%20item%20or%20service%20outside%20the%20editor%2C%20the%20item%20or%20service%20is%20automatically%20added%20to%20the%20Allow%20or%20Deny%20area%20in%20the%20Misc%20setting.</text>
       </controlProperties>
     </control>
   </controls>
