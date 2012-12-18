@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="530" mockupW="309" mockupH="525">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="677" mockupW="309" mockupH="672">
   <controls>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="650" y="74" w="294" h="444" measuredW="299" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
@@ -164,6 +164,12 @@
         <icon>CheckMarkIcon%7Csmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C24%2C150%2C69%22%20href%3D%22TestPolicy.bmml%22%20alt%3D%22TestPolicy%22%20id%3D%2235%22/%3E</map>
         <text>Test</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::StickyNote" x="650" y="494" w="137" h="183" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>The%20device%20status%20lights%20are%20read-only%2C%20and%20the%20coarse%20grained%20settings%20may%20be%20disabled%20based%20on%20device%20status.%20%20For%20example%2C%20%27Internet%27%20quick%20setting%20is%20both%20off%20and%20disabled%20because%20the%20Internet%20is%20unavailable%20to%20the%20device.%20</text>
       </controlProperties>
     </control>
   </controls>
