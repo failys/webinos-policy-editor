@@ -13,7 +13,8 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C212%2C100%2C233%22%20href%3D%22Places_Misc_Old.bmml%22%20alt%3D%22Places_Misc_Old%22%20id%3D%221_0%22/%3E%0A</map>
+        <hrefs>%2C%2C%2CPlaces_Misc%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C212%2C100%2C233%22%20href%3D%22Places_Misc.bmml%22%20alt%3D%22Places_Misc%22%20id%3D%221_0%22/%3E%0A</map>
         <selectedIndex>2</selectedIndex>
         <text>Home%0AOffice%0ATrip%20to%20dad%27s%0AMisc</text>
       </controlProperties>

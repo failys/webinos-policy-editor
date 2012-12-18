@@ -1,14 +1,14 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="637" measuredH="542" mockupW="406" mockupH="444">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="530" mockupW="309" mockupH="525">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="231" y="98" w="294" h="444" measuredW="299" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="650" y="74" w="294" h="444" measuredW="299" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C0%2C221%2C25%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22169%2C69%2C223%2C94%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_0%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
         <text>Quick%2CApps%2CPeople%2CPlaces%2CStores</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="__group__" x="243" y="129" w="394" h="402" measuredW="263" measuredH="402" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="__group__" x="663" y="109" w="263" h="402" measuredW="263" measuredH="402" zOrder="6" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="6" controlTypeID="__group__" x="0" y="0" w="263" h="402" measuredW="263" measuredH="402" zOrder="0" locked="false" isInGroup="30">
           <groupChildrenDescriptors>
@@ -17,7 +17,7 @@
                 <control controlID="0" controlTypeID="__group__" x="0" y="0" w="261" h="45" measuredW="261" measuredH="45" zOrder="0" locked="false" isInGroup="0">
                   <groupChildrenDescriptors>
                     <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="261" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
-                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="12" w="55" h="21" measuredW="55" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="12" w="55" h="21" measuredW="57" measuredH="21" zOrder="1" locked="false" isInGroup="0">
                       <controlProperties>
                         <text>Incognito</text>
                       </controlProperties>
@@ -129,6 +129,42 @@
           </groupChildrenDescriptors>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TitleWindow" x="648" y="5" w="309" h="525" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>My%20Policy</text>
+        <topheight>71</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="806" y="29" w="78" h="-1" measuredW="72" measuredH="45" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RepeatIcon%7Csmall</icon>
+        <text>Synchronise</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="663" y="29" w="-1" h="-1" measuredW="35" measuredH="45" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FolderClosed%7Csmall</icon>
+        <text>Open</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="715" y="29" w="-1" h="-1" measuredW="35" measuredH="45" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SaveIcon%7Csmall</icon>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="765" y="29" w="-1" h="-1" measuredW="33" measuredH="45" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>TestPolicy%26bm%3BTestPolicy.bmml%26bm%3BTestPolicy.bmml%26bm%3BTestPolicy.bmml</href>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C24%2C150%2C69%22%20href%3D%22TestPolicy.bmml%22%20alt%3D%22TestPolicy%22%20id%3D%2235%22/%3E</map>
+        <text>Test</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

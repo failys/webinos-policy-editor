@@ -2,6 +2,9 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="282" y="166" w="262" h="199" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
         <text>Navigation</text>
       </controlProperties>
     </control>
