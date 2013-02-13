@@ -16,7 +16,7 @@
         <hrefs>%2C%2C%2CPlaces_Misc%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C212%2C100%2C233%22%20href%3D%22Places_Misc.bmml%22%20alt%3D%22Places_Misc%22%20id%3D%221_0%22/%3E%0A</map>
         <selectedIndex>3</selectedIndex>
-        <text>Home%0AOffice%0ATrip%20to%20dad%27s%0AMisc</text>
+        <text>Home%0AOffice%0ATrip%20to%20dad%27s%0ADefault</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="267" y="58" w="78" h="-1" measuredW="72" measuredH="45" zOrder="1" locked="false" isInGroup="-1">
@@ -105,7 +105,7 @@
     <control controlID="35" controlTypeID="com.balsamiq.mockups::StickyNote" x="215" y="466" w="179" h="136" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
-        <text>Everytime%20a%20user%20selects%20%27always%20allow%27%20or%20%27allows%20deny%27%20for%20a%20data%20item%20or%20service%20outside%20the%20editor%2C%20the%20item%20or%20service%20is%20automatically%20added%20to%20the%20Allow%20or%20Deny%20area%20in%20the%20Misc%20setting.</text>
+        <text>Everytime%20a%20user%20selects%20%27always%20allow%27%20or%20%27allows%20deny%27%20for%20a%20data%20item%20or%20service%20outside%20the%20editor%2C%20the%20item%20or%20service%20is%20automatically%20added%20to%20the%20Allow%20or%20Deny%20area%20in%20the%20Default%20setting.</text>
       </controlProperties>
     </control>
     <control controlID="36" controlTypeID="com.balsamiq.mockups::RoundButton" x="472" y="271" w="83" h="31" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
