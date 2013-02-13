@@ -1,24 +1,29 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="467" measuredH="216" mockupW="139" mockupH="113">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="577" measuredH="244" mockupW="249" mockupH="141">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="328" y="103" w="139" h="113" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="328" y="103" w="249" h="141" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bottomheight>0</bottomheight>
-        <text>Add%20to%20policy</text>
+        <text>Add%20to%20Trip%20to%20Dad%27s%20for%20Peter</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="344" y="127" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="336" y="137" w="171" h="50" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Category</text>
+        <text>Device%20service</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="344" y="154" w="107" h="27" measuredW="92" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="343" y="152" w="144" h="-1" measuredW="72" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Object</text>
+        <text>Sensor</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="344" y="181" w="107" h="27" measuredW="98" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="336" y="190" w="171" h="43" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Service</text>
+        <text>Action</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="342" y="203" w="144" h="-1" measuredW="61" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Allow</text>
       </controlProperties>
     </control>
   </controls>
