@@ -51,12 +51,12 @@
       </controlProperties>
     </control>
     <control controlID="41" controlTypeID="com.balsamiq.mockups::VRule" x="345" y="34" w="-1" h="71" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="296" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="341" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C218%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C222%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_0%22/%3E%0A</map>
         <selectedIndex>3</selectedIndex>
-        <text>Quick%2CApps%2CPeople%2CProfile%2CStores</text>
+        <text>Quick%2CApps%2CPeople%2CCircles%2CProfile%2CStores</text>
       </controlProperties>
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
@@ -104,7 +104,7 @@
         <color>16167531</color>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="455" y="204" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="455" y="204" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Prompt</text>
       </controlProperties>
@@ -142,6 +142,18 @@
         <color>16776960</color>
         <shape>rectangle</shape>
         <text>Calendar</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::RoundButton" x="422" y="466" w="324" h="119" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="515" y="474" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Hidden</text>
       </controlProperties>
     </control>
   </controls>

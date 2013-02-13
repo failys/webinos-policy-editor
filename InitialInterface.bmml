@@ -161,7 +161,6 @@
     <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="765" y="29" w="-1" h="-1" measuredW="33" measuredH="45" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22279%2C24%2C312%2C69%22%20href%3D%22TestPolicy.bmml%22%20alt%3D%22TestPolicy%22%20id%3D%2235%22/%3E</map>
         <text>Test</text>
       </controlProperties>
     </control>
