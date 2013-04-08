@@ -51,21 +51,20 @@
       </controlProperties>
     </control>
     <control controlID="41" controlTypeID="com.balsamiq.mockups::VRule" x="345" y="34" w="-1" h="71" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="296" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="341" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CAppForm%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C122%2C112%2C147%22%20href%3D%22AppForm.bmml%22%20alt%3D%22AppForm%22%20id%3D%2245_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C218%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_1%22/%3E%0A</map>
-        <selectedIndex>4</selectedIndex>
-        <text>Quick%2CApps%2CPeople%2CProfile%2CStores</text>
+        <hrefs>%2C%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22222%2C122%2C273%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_0%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Quick%2CApps%2CPeople%2CCircles%2CProfile%2CStores</text>
       </controlProperties>
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <hrefs>%2C%2C%2CPlaces_Misc%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml%26bm%3BPlaces_Misc.bmml%2CAddToPolicy%26bm%3BAddToPolicy.bmml%26bm%3BAddToPolicy.bmml%26bm%3BAddToPolicy.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C212%2C100%2C233%22%20href%3D%22Places_Misc.bmml%22%20alt%3D%22Places_Misc%22%20id%3D%2246_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C233%2C100%2C254%22%20href%3D%22AddToPolicy.bmml%22%20alt%3D%22AddToPolicy%22%20id%3D%2246_1%22/%3E%0A</map>
-        <selectedIndex>3</selectedIndex>
-        <text>Home%0AOffice%0ATrip%20to%20dad%27s%0ADefault%0A%20</text>
+        <selectedIndex>0</selectedIndex>
+        <text>Kids%20in%20Focus%0ACreative%20Notes%0AAll</text>
       </controlProperties>
     </control>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::ComboBox" x="211" y="181" w="535" h="-1" measuredW="66" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
@@ -125,14 +124,14 @@
         <text>Contacts</text>
       </controlProperties>
     </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::RoundButton" x="432" y="242" w="106" h="31" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::RoundButton" x="553" y="364" w="106" h="31" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <shape>rectangle</shape>
         <text>Music%20Player</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::RoundButton" x="432" y="273" w="106" h="31" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::RoundButton" x="553" y="395" w="106" h="31" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <color>16776960</color>
