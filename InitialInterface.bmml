@@ -1,11 +1,11 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="677" mockupW="471" mockupH="672">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="650" y="74" w="294" h="444" measuredW="296" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="650" y="74" w="294" h="444" measuredW="331" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CAppForm%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22232%2C69%2C276%2C94%22%20href%3D%22AppForm.bmml%22%20alt%3D%22AppForm%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22331%2C69%2C382%2C94%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22232%2C69%2C276%2C94%22%20href%3D%22AppForm.bmml%22%20alt%3D%22AppForm%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22331%2C69%2C417%2C94%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%221_1%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
-        <text>Quick%2CApps%2CPeople%2CProfile%2CStores</text>
+        <text>Quick%2CApps%2CPeople%2CEnvironment%2CStores</text>
       </controlProperties>
     </control>
     <control controlID="30" controlTypeID="__group__" x="663" y="109" w="263" h="402" measuredW="263" measuredH="402" zOrder="6" locked="false" isInGroup="-1">

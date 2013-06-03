@@ -73,12 +73,12 @@
         <text>Allow</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="341" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="376" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C222%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2232_0%22/%3E%0A</map>
         <selectedIndex>3</selectedIndex>
-        <text>Quick%2CApps%2CPeople%2CCircles%2CProfile%2CStores</text>
+        <text>Quick%2CApps%2CPeople%2CCircles%2CEnvironment%2CStores</text>
       </controlProperties>
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="111" y="148" w="629" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
