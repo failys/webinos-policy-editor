@@ -51,12 +51,12 @@
       </controlProperties>
     </control>
     <control controlID="41" controlTypeID="com.balsamiq.mockups::VRule" x="345" y="34" w="-1" h="71" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="296" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TabBar" x="111" y="156" w="635" h="427" measuredW="331" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CAppForm%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%26bm%3BAppForm.bmml%2C%2CPlaces_DefinedCategory%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%26bm%3BPlaces_DefinedCategory.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C122%2C112%2C147%22%20href%3D%22AppForm.bmml%22%20alt%3D%22AppForm%22%20id%3D%2245_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C218%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C122%2C112%2C147%22%20href%3D%22AppForm.bmml%22%20alt%3D%22AppForm%22%20id%3D%2245_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C122%2C253%2C147%22%20href%3D%22Places_DefinedCategory.bmml%22%20alt%3D%22Places_DefinedCategory%22%20id%3D%2245_1%22/%3E%0A</map>
         <selectedIndex>3</selectedIndex>
-        <text>Quick%2CApps%2CPeople%2CProfile%2CStores</text>
+        <text>Quick%2CApps%2CPeople%2CEnvironment%2CStores</text>
       </controlProperties>
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::List" x="111" y="181" w="100" h="404" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
