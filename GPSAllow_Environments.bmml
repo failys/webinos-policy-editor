@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="498" measuredH="429" mockupW="249" mockupH="160">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CheckBox" x="270" y="323" w="-1" h="-1" measuredW="59" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::CheckBox" x="270" y="345" w="-1" h="-1" measuredW="60" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Office</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CheckBox" x="270" y="374" w="-1" h="-1" measuredW="39" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>All</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::RoundButton" x="260" y="323" w="227" h="51" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TitleWindow" x="249" y="269" w="249" h="160" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Adit/Edit%20Permission</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TabBar" x="249" y="293" w="249" h="108" measuredW="272" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>GPSAllow%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml%2CGPSAllow_Environments%26bm%3BGPSAllow_Environments.bmml%26bm%3BGPSAllow_Environments.bmml%26bm%3BGPSAllow_Environments.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C24%2C89%2C49%22%20href%3D%22GPSAllow.bmml%22%20alt%3D%22GPSAllow%22%20id%3D%2217_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2289%2C24%2C175%2C49%22%20href%3D%22GPSAllow_Environments.bmml%22%20alt%3D%22GPSAllow_Environments%22%20id%3D%2217_1%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Summary%2CEnvironment%2CDetails</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="264" y="401" w="94" h="27" measuredW="54" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="366" y="401" w="94" h="27" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="469" y="319" w="-1" h="55" measuredW="16" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

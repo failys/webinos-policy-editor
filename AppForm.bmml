@@ -6,7 +6,7 @@
         <href>GPSAllow%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml%26bm%3BGPSAllow.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C208%2C244%2C239%22%20href%3D%22GPSAllow.bmml%22%20alt%3D%22GPSAllow%22%20id%3D%2234%22/%3E</map>
         <shape>rectangle</shape>
-        <text>Vehicle%20Visibility</text>
+        <text>GPS</text>
       </controlProperties>
     </control>
     <control controlID="35" controlTypeID="com.balsamiq.mockups::RoundButton" x="553" y="241" w="95" h="32" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
